@@ -63,7 +63,7 @@
 ## 📚 Featured Projects
 <div align="center">
 
-### 🏢 연세대학교 & ㈜유니온써치 산학협력 프로젝트  
+### 🏢 연세대학교 & ㈜유니온써치 산학협력 프로젝트 
 [![UnionSearch](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=tokyonight&hide_border=true)](https://github.com/alpkh/unionsearch)
 
 **🎯 프로젝트 개요**  
@@ -86,11 +86,11 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
 
 ---
 
-### 👗 Y_OOTD - 패션 경쟁 플랫폼  
+### 👗 Y_OOTD 
 [![Y_OOTD](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=dracula&hide_border=true)](https://github.com/alpkh/y_ootd)
 
 **🎯 프로젝트 개요**  
-학과/학생별 OOTD 사진 업로드 및 경쟁 서비스 (대학 축제 부스 운영)
+학과/학생별 OOTD 사진 업로드 및 경쟁 앱 (대학 축제 부스 운영)
 
 <table align="center">
   <tr>
@@ -109,11 +109,11 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
 
 ---
 
-### 👁️ SmartEYES - AI 낙상감지 시스템  
+### 👁️ SmartEYES
 [![SmartEYES](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=smarteyes&theme=radical&hide_border=true)](https://github.com/alpkh/smarteyes)
 
 **🎯 프로젝트 개요**  
-YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 시스템
+YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 앱
 
 <table align="center">
   <tr>
@@ -132,11 +132,11 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
 
 ---
 
-### 🔄 SWAP - 지역 기반 물물거래 플랫폼  
+### 🔄 SWAP 
 [![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=merko&hide_border=true)](https://github.com/alpkh/swap)
 
 **🎯 프로젝트 개요**  
-물물 거래 플랫폼
+물물 거래 전용 웹 플랫폼
 
 <table align="center">
   <tr>
