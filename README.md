@@ -42,107 +42,65 @@
 
 ### 📚프로젝트
 
->  ## 1. ProPlat
+>  ## 1. 연세대학교 & (주) 유니온써치 산학 협력 프로젝트
 >
-> <a href="https://github.com/alpkh/unionsearch.git">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=gruvbox">
+> <a href="https://github.com/alpkh/unionsearch">
+>    <img align="" width=450 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=gruvbox">
 > </a>
 >  
->  동아리 및 프로젝트 구인 정보 웹 서비스
+>  HR 데이터를 이용한 자동화 인재 추천 시스템
 >  
->  + 개발기간: 2023.09.11 ~ 11.06
->  + 역할: Back-End 개발 및 데이터베이스 설계 구축
->  
-> > Back-End
+>  + 개발기간: 2024.03 ~ 2024.12
+>  + 역할: FastAPI 기반 추천 서버와 연동되는 웹 프론트엔드 개발 & 서비스 기획 & HR데이터 JSON화 및 가공
+>
 > > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL 
-> > 
-> > <a href="https://github.com/SystemArchitecture-ProPlat/Proplat_Back">
-> >   <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat_Back&theme=gruvbox">
-> > </a>
-> >
+> > + Language: JavaScript, TypeScript
+> > + Skill: Vue.js, Mysql 
+
 >    
->  ## 2. WithSafe
+>  ## 2. Y_OOTD
 >
-> <a href="https://github.com/LAB-2023/WithSafe-Server">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=LAB-2023&repo=WithSafe-Server&theme=gruvbox">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=LAB-2023&repo=WithSafe-Mybatis&theme=gruvbox">
+> <a href="https://github.com/alpkh/y_ootd">
+>    <img align="" width=450 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=gruvbox">
 > </a>
 >  
->  (주)SbSystems과 함께 진행한 공사장 실시간 안전 관리 웹 애플리케이션
+>  OOTD를 올려 학과/학생 별로 경쟁할 수 있는 앱 ( 축제 부스 사용 )
 >  
->  + 개발기간: 2023.06.11 ~ 2024.02.06
->  + 역할: Back-End 개발 및 데이터베이스 설계 구축(JPA와 MyBatis 방식 두 가지로 구현)
->  
-> > Back-End
-> > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, MyBatis
+>  + 개발기간: 2023.03 ~ 2024.05
+>  + 역할: 프론트&백엔드 개발 - firebase연동 로그인 시스템, 이미지 처리 서버 구현, 실시간 집계 랭킹 페이지 구
+
+> > + Language: Dart, CSS3
+> > + Skill: Flutter, Firebase
 > > 
 >
 > 
->  ## 3. BBang
+>  ## 3. SmartEYES
 >
-> <a href="https://github.com/kea-semicolon/MeetOnBE_GateWay">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=kea-semicolon&repo=MeetOnBE_Gateway&theme=gruvbox">
+> <a href="https://github.com/alpkh/smarteyes">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=smarteyes&theme=gruvbox">
 > </a>
 >  
->  짧은 기간 프로젝트를 위한 쉽고 다양한 기능의 웹 애플리케이션
+>  Yolov7를 활용하여, 보행속도 감지를 통한 낙상감지 앱
 >  
->  + 개발기간: 2024.03.02 ~ 2024.6.14
+>  + 개발기간: 2023.09 ~ 2023.12
+>  + 역할: 프론트&백엔드 개발, fastapi서버와 연동하여 영상 출력, 보행속도에 따라 낙상감지 발생 알림 기능 구현
+>  
+
+> > + Language: Dart,CSS3
+> > + Skill: Firebase, Flutter
+> > 
+>
+>  ## 4. SWAP
+>
+> <a href="https://github.com/alpkh/swap">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=gruvbox">
+> </a>
+>  
+>  물물거래 플랫폼
+>  
+>  + 개발기간: 2024.03 ~ 2024.06
 >  + 역할: Back-End 개발 및 데이터베이스 설계 구축
 >  
-> > Back-End
-> > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Spring Cloud, AWS, Kafka, WebClient, Oauth
-> > 
->
->  ## 4. Dkation
->
-> <a href="https://github.com/TEAM-MONGDOL/dkation-be">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-MONGDOL&repo=dkation-be&theme=gruvbox">
-> </a>
->  
->  Dktechin 기업 실무 Workation 추첨 시스템(private)
->  
->  + 개발기간: 2024.07.01 ~ 8.22
->  + 역할: Back-End 개발 및 데이터베이스 설계 구축
->  
-> > Back-End
-> > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3
->  ## 5. Focusider
->
-> <a href="https://github.com/ManchanTime/Focusider-BE">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=gcuswmono&repo=Focusider-BE&theme=gruvbox">
-> </a>
->  
->  오픈 소스 공모전 프로젝트 아이들 문해력, 단어 이해력 향상 도움 애플리케이션
->  서버 종료
->  
->  + 개발기간: 2024.07.15 ~ 8.22
->  + 역할: Back-End 개발 및 데이터베이스 설계 구축
->  
-> > Back-End
-> > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, MySQL, Scheduler, S3, Spring AI
->  ## 6. 재난 알리미
->
-> <a href="https://github.com/ManchanTime/fcm">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=TranStreaming-gc&repo=fcm&theme=gruvbox&cache_seconds=1800">
-> </a>
->  
->  K-paas 공모전 프로젝트 재난 알림 및 대피 방법 알림 어플리케이션
->  서버 종료
->  
->  + 개발기간: 2024.09.15 ~ 10.31
->  + 역할: Back-End 개발 및 FCM 통신 서비스 구축
->  
-> > Back-End
-> > 
-> > + Language: JAVA
-> > + Skill: Spring Boot, JPA, QueryDsl, PostgreSQL, Redis Pub.Sub, FCM
+> > + Language: Javascript
+> > + Skill: React, Mysql
+
