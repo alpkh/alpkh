@@ -10,9 +10,10 @@
 ---
 
 ## 🌟 About Me
-> *"SAP ABAP 개발과 풀스택 개발의 경계를 넘나들며, 비즈니스 가치를 창출하는 개발자입니다."*
+> *"결과물은 나의 얼굴이다. 더 나은 개발을 위해 고민합니다."*
+> *"소통을 중요시하고, 좋아하는 개발자 입니다."*
 
-🔗 **ABAP 포트폴리오**: [SYNC 프로젝트 Notion 링크](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
+🔗 **ABAP 포트폴리오**: [SYNC 프로젝트](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
 
 </div>
 
@@ -35,7 +36,7 @@
 
 </div>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks
 <div align="center">
   
 ![Fiori & UI5](https://img.shields.io/badge/Fiori%20&%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
