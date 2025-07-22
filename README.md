@@ -45,7 +45,7 @@
 >  ## 1. ProPlat
 >
 > <a href="https://github.com/alpkh/unionsearch.git">
->    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat&theme=gruvbox">
+>    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=gruvbox">
 > </a>
 >  
 >  동아리 및 프로젝트 구인 정보 웹 서비스
