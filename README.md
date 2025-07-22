@@ -12,6 +12,7 @@
 ## 🌟 About Me
 > *"결과물은 나의 얼굴이다. 더 나은 개발을 위해 고민합니다."*
 > <br>
+> <br>
 > *"소통을 중요시하고, 좋아하는 개발자 입니다."*
 
 🔗 **ABAP 포트폴리오**: [SYNC 프로젝트](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
@@ -60,115 +61,97 @@
 ---
 
 ## 📚 Featured Projects
-
 <div align="center">
 
-### 🏢 연세대학교 & ㈜유니온써치 산학협력 프로젝트
+### 🏢 연세대학교 & ㈜유니온써치 산학협력 프로젝트  
 [![UnionSearch](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=tokyonight&hide_border=true)](https://github.com/alpkh/unionsearch)
 
-</div>
+**🎯 프로젝트 개요**  
+HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 인재 추천 플랫폼
 
-**🎯 프로젝트 개요**
-> HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 인재 추천 플랫폼
-
-| 항목 | 내용 |
-|:------:|:------:|
-| **📅 개발 기간** | 2024.03 ~ 2024.12 |
-| **👥 담당 역할** | 프론트엔드 개발, HR JSON 데이터 처리, 서비스 기획 |
-| **⚡ 핵심 기술** | `JavaScript` `TypeScript` `Vue.js` `MySQL` |
-| **🌟 주요 성과** | FastAPI 기반 추천 서버 연동, 실시간 인재 매칭 시스템 구현 |
+<table align="center">
+  <tr>
+    <td><strong>📅 개발 기간</strong></td>
+    <td>2024.03 ~ 2024.12</td>
+  </tr>
+  <tr>
+    <td><strong>👥 담당 역할 및 성과</strong></td>
+    <td>프론트엔드 개발 및 HR JSON 데이터 처리, 서비스 기획<br>• FastAPI 기반 추천 서버 연동<br>• 실시간 인재 매칭 시스템 구현</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 사용 언어 & 기술</strong></td>
+    <td><code>JavaScript</code> <code>TypeScript</code> <code>Vue.js</code> <code>MySQL</code></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-
-### 👗 Y_OOTD - 패션 경쟁 플랫폼
+### 👗 Y_OOTD - 패션 경쟁 플랫폼  
 [![Y_OOTD](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=dracula&hide_border=true)](https://github.com/alpkh/y_ootd)
 
-</div>
+**🎯 프로젝트 개요**  
+학과/학생별 OOTD 사진 업로드 및 경쟁 서비스 (대학 축제 부스 운영)
 
-**🎯 프로젝트 개요**
-> 학과/학생별 OOTD 사진 업로드 및 경쟁 서비스 (대학 축제 부스 운영)
-
-| 항목 | 내용 |
-|:------:|:------:|
-| **📅 개발 기간** | 2023.03 ~ 2024.05 |
-| **👥 담당 역할** | 프론트&백엔드 개발, 이미지 처리 서버, 실시간 랭킹 시스템 |
-| **⚡ 사용 언어 & 기술** | `Dart` `Flutter` `Firebase` `CSS3` |
-| **🌟 주요 성과** | 실시간 투표 시스템, 자동화된 랭킹 알고리즘 구현 |
+<table align="center">
+  <tr>
+    <td><strong>📅 개발 기간</strong></td>
+    <td>2023.03 ~ 2024.05</td>
+  </tr>
+  <tr>
+    <td><strong>👥 담당 역할 및 성과</strong></td>
+    <td>프론트·백엔드 통합 개발 및 이미지 서버 구현<br>• 실시간 투표 시스템 구축<br>• 자동화 랭킹 알고리즘 설계</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 사용 언어 & 기술</strong></td>
+    <td><code>Dart</code> <code>Flutter</code> <code>Firebase</code> <code>CSS3</code></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-
-### 👁️ SmartEYES - AI 낙상감지 시스템
+### 👁️ SmartEYES - AI 낙상감지 시스템  
 [![SmartEYES](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=smarteyes&theme=radical&hide_border=true)](https://github.com/alpkh/smarteyes)
 
-</div>
+**🎯 프로젝트 개요**  
+YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 시스템
 
-**🎯 프로젝트 개요**
-> YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 시스템
-
-| 항목 | 내용 |
-|:------:|:------:|
-| **📅 개발 기간** | 2023.09 ~ 2023.12 |
-| **👥 담당 역할** | Flutter 앱 개발, FastAPI 연동, 실시간 알림 시스템 |
-| **⚡ 핵심 기술** | `Dart` `Flutter` `Firebase` `AI/ML` |
-| **🌟 주요 성과** | 실시간 영상 분석, 긴급상황 자동 알림 기능 |
+<table align="center">
+  <tr>
+    <td><strong>📅 개발 기간</strong></td>
+    <td>2023.09 ~ 2023.12</td>
+  </tr>
+  <tr>
+    <td><strong>👥 담당 역할 및 성과</strong></td>
+    <td>Flutter 앱 개발 및 FastAPI 연동<br>• 실시간 영상 분석 기능 구현<br>• 긴급상황 자동 알림 시스템 구축</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 사용 언어 & 기술</strong></td>
+    <td><code>Dart</code> <code>Flutter</code> <code>Firebase</code> <code>AI/ML</code></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-
-### 🔄 SWAP - 지역 기반 물물거래 플랫폼
+### 🔄 SWAP - 지역 기반 물물거래 플랫폼  
 [![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=merko&hide_border=true)](https://github.com/alpkh/swap)
 
-</div>
+**🎯 프로젝트 개요**  
+위치 기반 안전한 물물거래를 위한 소셜 플랫폼
 
-**🎯 프로젝트 개요**
-> 위치 기반 안전한 물물거래를 위한 소셜 플랫폼
-
-| 항목 | 내용 |
-|:------:|:------:|
-| **📅 개발 기간** | 2024.03 ~ 2024.06 |
-| **👥 담당 역할** | 백엔드 개발, 데이터베이스 설계 및 최적화 |
-| **⚡ 핵심 기술** | `JavaScript` `React` `MySQL` |
-| **🌟 주요 성과** | 지역별 거래 매칭 알고리즘, 안전거래 시스템 구현 |
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpkh&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/alpkh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpkh&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/alpkh)
-
----
-
-## 🎯 Career Goal
-> **"SAP 생태계에서의 전문성을 바탕으로, 혁신적인 비즈니스 솔루션을 개발하는 것"**
-
-**현재 관심 분야**
-- 🔵 SAP BTP (Business Technology Platform) 활용
-- 🔵 Fiori/UI5 기반 사용자 경험 개선
-- 🔵 클라우드 네이티브 애플리케이션 개발
-- 🔵 AI/ML 기술과 ERP 시스템 융합
-
----
-
-### 💬 Let's Connect!
-*새로운 기회와 협업을 위해 언제든 연락 주세요!*
-
-[![Gmail](https://img.shields.io/badge/Gmail-hws0807@yonsei.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hws0807@yonsei.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+<table align="center">
+  <tr>
+    <td><strong>📅 개발 기간</strong></td>
+    <td>2024.03 ~ 2024.06</td>
+  </tr>
+  <tr>
+    <td><strong>👥 담당 역할 및 성과</strong></td>
+    <td>백엔드 개발 및 DB 설계·최적화<br>• 지역별 거래 매칭 알고리즘 구현<br>• 안전거래 시스템 개발</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 사용 언어 & 기술</strong></td>
+    <td><code>JavaScript</code> <code>React</code> <code>MySQL</code></td>
+  </tr>
+</table>
 
 </div>
 
----
-
-<div align="center">
-
-*⭐ 이 README가 도움이 되셨다면 Star를 눌러주세요! ⭐*
-
-</div>
