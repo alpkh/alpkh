@@ -44,7 +44,7 @@
 
 >  ## 1. ProPlat
 >
-> <a href="https://github.com/SystemArchitecture-ProPlat/ProPlat/tree/main">
+> <a href="https://github.com/alpkh/unionsearch.git">
 >    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=ManchanTime&repo=Proplat&theme=gruvbox">
 > </a>
 >  
