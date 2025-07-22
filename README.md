@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <!-- 프레임워크 & 라이브러리 -->
 <img src="https://img.shields.io/badge/Fiori%20&%20UI5-0FAAFF?style=flat&logo=sap&logoColor=white"/>
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
-<br/><br/>
+<br/>
 
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -49,12 +49,12 @@
 
 ---
 
-### 📚 주요 프로젝트
+### 📚 프로젝트
 
 #### 🔹 1. 연세대학교 & ㈜유니온써치 산학 협력 프로젝트
-[🔗 GitHub Repo](https://github.com/alpkh/unionsearch)  
+
 <a href="https://github.com/alpkh/unionsearch">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=gruvbox">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=gruvbox">
 </a>
 
 **소개:**  
@@ -67,9 +67,9 @@ HR 데이터를 기반으로 FastAPI 추천 서버와 연동되는 자동화 인
 ---
 
 #### 🔹 2. Y_OOTD
-[🔗 GitHub Repo](https://github.com/alpkh/y_ootd)  
+
 <a href="https://github.com/alpkh/y_ootd">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=gruvbox">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=gruvbox">
 </a>
 
 **소개:**  
@@ -82,7 +82,7 @@ HR 데이터를 기반으로 FastAPI 추천 서버와 연동되는 자동화 인
 ---
 
 #### 🔹 3. SmartEYES
-[🔗 GitHub Repo](https://github.com/alpkh/smarteyes)  
+
 <a href="https://github.com/alpkh/smarteyes">
   <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=smarteyes&theme=gruvbox">
 </a>
@@ -97,7 +97,7 @@ Yolov7 기반 보행 속도 인식 → 낙상감지 시스템
 ---
 
 #### 🔹 4. SWAP
-[🔗 GitHub Repo](https://github.com/alpkh/swap)  
+
 <a href="https://github.com/alpkh/swap">
   <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=gruvbox">
 </a>
