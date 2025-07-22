@@ -76,7 +76,7 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
   </tr>
   <tr>
     <td><strong>👥 담당 역할 및 구현</strong></td>
-    <td>프론트엔드 개발(자사 웹사이트) 및 HR JSON 데이터 처리, 서비스 기획<br>• FastAPI 기반 추천 서버 연동<br>• 인재DB연동 인재리스트 정렬 페이지</td>
+    <td>• 프론트엔드 개발(자사 웹사이트) 및 HR JSON 데이터 처리, 서비스 기획<br>• FastAPI 기반 추천 서버 연동<br>• 인재DB연동 인재리스트 정렬 페이지</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
@@ -99,7 +99,7 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
   </tr>
   <tr>
     <td><strong>👥 담당 역할 및 구현</strong></td>
-    <td>프론트·백엔드 개발 및 이미지 서버 구현<br>• 실시간 투표 시스템 구축<br>• 실시간 랭킹 집계</td>
+    <td>• 프론트·백엔드 개발 및 이미지 서버 구현<br>• 실시간 투표 시스템 구축<br>• 실시간 랭킹 집계</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
@@ -122,7 +122,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
   </tr>
   <tr>
     <td><strong>👥 담당 역할 및 구현</strong></td>
-    <td>Flutter 앱 프론트 개발 및 FastAPI 연동<br>• 긴급상황 자동 알림 시스템 구축</td>
+    <td>• Flutter 앱 프론트 개발 및 FastAPI 연동<br>• 긴급상황 자동 알림 시스템 구축</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
@@ -145,7 +145,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
   </tr>
   <tr>
     <td><strong>👥 담당 역할 및 구현</strong></td>
-    <td>백엔드 개발 및 DB 설계·최적화<br>• TCP/IP 실시간 채팅 시스템 구현<br>•상점 페이지 구현</td>
+    <td>• 백엔드 개발 및 DB 설계·최적화<br>• TCP/IP 실시간 채팅 시스템 구현<br>• 상점 관리 페이지 구현</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
