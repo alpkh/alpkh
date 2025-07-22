@@ -47,7 +47,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 </div>
 
@@ -55,7 +55,7 @@
 <div align="center">
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 </div>
 
 ---
@@ -67,7 +67,7 @@
 [![UnionSearch](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=tokyonight&hide_border=true)](https://github.com/alpkh/unionsearch)
 
 **🎯 프로젝트 개요**  
-HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 인재 추천 플랫폼
+HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 인재 추천 플랫폼 
 
 <table align="center">
   <tr>
@@ -75,8 +75,8 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
     <td>2024.03 ~ 2024.12</td>
   </tr>
   <tr>
-    <td><strong>👥 담당 역할 및 성과</strong></td>
-    <td>프론트엔드 개발 및 HR JSON 데이터 처리, 서비스 기획<br>• FastAPI 기반 추천 서버 연동<br>• 실시간 인재 매칭 시스템 구현</td>
+    <td><strong>👥 담당 역할 및 구현</strong></td>
+    <td>프론트엔드 개발(자사 웹사이트) 및 HR JSON 데이터 처리, 서비스 기획<br>• FastAPI 기반 추천 서버 연동<br>• 인재DB연동 인재리스트 정렬 페이지</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
@@ -98,8 +98,8 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
     <td>2023.03 ~ 2024.05</td>
   </tr>
   <tr>
-    <td><strong>👥 담당 역할 및 성과</strong></td>
-    <td>프론트·백엔드 통합 개발 및 이미지 서버 구현<br>• 실시간 투표 시스템 구축<br>• 자동화 랭킹 알고리즘 설계</td>
+    <td><strong>👥 담당 역할 및 구현</strong></td>
+    <td>프론트·백엔드 개발 및 이미지 서버 구현<br>• 실시간 투표 시스템 구축<br>• 실시간 랭킹 집계</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
@@ -121,12 +121,12 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
     <td>2023.09 ~ 2023.12</td>
   </tr>
   <tr>
-    <td><strong>👥 담당 역할 및 성과</strong></td>
-    <td>Flutter 앱 개발 및 FastAPI 연동<br>• 실시간 영상 분석 기능 구현<br>• 긴급상황 자동 알림 시스템 구축</td>
+    <td><strong>👥 담당 역할 및 구현</strong></td>
+    <td>Flutter 앱 프론트 개발 및 FastAPI 연동<br>• 긴급상황 자동 알림 시스템 구축</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
-    <td><code>Dart</code> <code>Flutter</code> <code>Firebase</code> <code>AI/ML</code></td>
+    <td><code>Dart</code> <code>Flutter</code> <code>Firebase</code></td>
   </tr>
 </table>
 
@@ -136,7 +136,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
 [![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=merko&hide_border=true)](https://github.com/alpkh/swap)
 
 **🎯 프로젝트 개요**  
-위치 기반 안전한 물물거래를 위한 소셜 플랫폼
+물물 거래 플랫폼
 
 <table align="center">
   <tr>
@@ -144,8 +144,8 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
     <td>2024.03 ~ 2024.06</td>
   </tr>
   <tr>
-    <td><strong>👥 담당 역할 및 성과</strong></td>
-    <td>백엔드 개발 및 DB 설계·최적화<br>• 지역별 거래 매칭 알고리즘 구현<br>• 안전거래 시스템 개발</td>
+    <td><strong>👥 담당 역할 및 구현</strong></td>
+    <td>백엔드 개발 및 DB 설계·최적화<br>• TCP/IP 실시간 채팅 시스템 구현<br>•상점 페이지 구현</td>
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
