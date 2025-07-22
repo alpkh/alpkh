@@ -13,7 +13,7 @@
 
 ### 🗂️ ABAP 포트폴리오
 
-👉 [SYNC 프로젝트 정리 보기](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
+👉 [SYNC 프로젝트](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
 
 ---
 
