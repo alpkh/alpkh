@@ -64,6 +64,7 @@
 <div align="center">
 
 ### 🏢 연세대학교 & ㈜유니온써치 산학협력 프로젝트 
+[![UnionSearch](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=unionsearch&theme=dracula&hide_border=true)](https://github.com/alpkh/unionsearch)
 
 
 **🎯 프로젝트 개요**  
@@ -110,7 +111,7 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
 ---
 
 ### 👁️ SmartEYES
-
+[![SmartEYES](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=smarteyes&theme=dracula&hide_border=true)](https://github.com/alpkh/smarteyes)
 
 **🎯 프로젝트 개요**  
 YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 앱
