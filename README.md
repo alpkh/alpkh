@@ -42,7 +42,7 @@
 <div align="center">
   
 ![Fiori & UI5](https://img.shields.io/badge/Fiori%20&%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
