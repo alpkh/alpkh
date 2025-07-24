@@ -149,7 +149,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
   </tr>
   <tr>
     <td><strong>🛠 사용 언어 & 기술</strong></td>
-    <td><code>JavaScript</code> <code>React</code> <code>MySQL</code></td>
+    <td><code>JavaScript</code> <code>React</code><code>Vue.js</code> <code>MySQL</code></td>
   </tr>
 </table>
 
