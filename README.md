@@ -156,7 +156,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
 ---
 
 ### 👗 (주) 선율 해외 웹페이지(BeautyInsideMe) 제작
-[![sunyul](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=y_ootd&theme=dracula&hide_border=true)](https://github.com/alpkh/y_ootd)
+[![sunyul](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=sunyul&theme=dracula&hide_border=true)](https://github.com/alpkh/sunyul)
 
 **🎯 프로젝트 개요**  
 선율 해외 마케팅용 웹페이지 제작(https://beautyinsideme.com/)
