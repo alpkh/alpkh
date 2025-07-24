@@ -136,6 +136,7 @@ YOLOv7 기반 보행 속도 인식을 통한 스마트 낙상 감지 및 알림 
 
 
 **🎯 프로젝트 개요**  
+[![SWAP](https://github-readme-stats.vercel.app/api/pin/?username=alpkh&repo=swap&theme=merko&hide_border=true)](https://github.com/alpkh/swap)
 물물 거래 전용 웹 플랫폼
 
 <table align="center">
