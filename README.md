@@ -13,7 +13,7 @@
 > *"결과물은 나의 얼굴이다. 더 나은 개발을 위해 고민합니다."*
 > <br>
 > <br>
-> *"MBTI - E ! 사람에게 에너지를 얻습니다. 소통을 중요시하고, 좋아하는 개발자 입니다."*
+> *"MBTI - E  사람에게 에너지를 얻습니다. 소통을 중요시하고, 좋아하는 개발자 입니다."*
 
 🔗 **ABAP 포트폴리오**: [SYNC 프로젝트](https://www.notion.so/SYNC-Projects-2294004e375480949a89cd585cb707f5)
 
@@ -27,9 +27,9 @@
 <div align="center">
   
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
