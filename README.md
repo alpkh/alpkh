@@ -44,7 +44,7 @@
 ![Fiori & UI5](https://img.shields.io/badge/Fiori%20&%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
