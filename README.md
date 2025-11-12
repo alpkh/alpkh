@@ -96,7 +96,7 @@ HR 데이터를 기반으로 한 AI 추천 시스템과 연동되는 자동화 �
 <table align="center">
   <tr>
     <td><strong>📅 개발 기간</strong></td>
-    <td>2023.03 ~ 2024.05</td>
+    <td>2023.05 ~ 2023.06</td>
   </tr>
   <tr>
     <td><strong>👥 담당 역할 및 구현</strong></td>
